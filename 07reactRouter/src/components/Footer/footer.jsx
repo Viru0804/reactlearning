@@ -61,7 +61,7 @@ export default function Footer() {
                                 </li>
                                 <li>
                                     <Link to="#" className="hover:underline">
-                                        Terms &amp; Conditions
+                                        Terms And Conditions
                                     </Link>
                                 </li>
                             </ul>
@@ -73,7 +73,7 @@ export default function Footer() {
                     <span className="text-sm text-gray-500 sm:text-center">
                         © 2023
                         <a href="https://hiteshchoudhary.com/" className="hover:underline">
-                            hiteshchoudhary
+                            Virendra Pogul
                         </a>
                         . All Rights Reserved.
                     </span>
@@ -136,7 +136,7 @@ export default function Footer() {
                                     clipRule="evenodd"
                                 />
                             </svg>
-                            <span className="sr-only">GitHub account</span>
+                            <span className="sr-only">GitHub Account</span>
                         </Link>
                         <Link to="#" className="text-gray-500">
                             <svg
