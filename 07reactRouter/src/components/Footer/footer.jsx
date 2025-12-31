@@ -92,7 +92,7 @@ export default function Footer() {
                                     clipRule="evenodd"
                                 />
                             </svg>
-                            <span className="sr-only">Facebook PAGE</span>
+                            <span className="sr-only">Facebook PageE</span>
                         </Link>
                         <Link to="#" className="text-gray-500">
                             <svg
